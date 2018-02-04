@@ -11,7 +11,7 @@ img.on('click',function () {
 
   var copy = self.clone();
 
-  var img1Info=self.attr('tekst');
+  var img1Info=self.attr('value');
   switch (new Text) {
     case 0:
     tekst = "Novi tekst";
