@@ -12,26 +12,7 @@ img.on('click',function () {
   var copy = self.clone();
 
   var img1Info=self.attr('value');
-  switch (new Text) {
-    case 0:
-    tekst = "Novi tekst";
-      break;
-      case 1:
-      tekst = "Novi tekst1";
-        break;
-        case 2:
-        tekst = "Novi tekst2";
-          break;
-          case 3:
-          tekst = "Novi tekst3";
-            break;
-            case 4:
-            tekst = "Novi tekst4";
-              break;
-              case 5:
-              tekst = "Novi tekst5";
-                break;
-  }
+ 
 
     copy.css({
       position : 'fixed',
